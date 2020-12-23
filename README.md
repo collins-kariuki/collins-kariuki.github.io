@@ -1,3 +1,3 @@
-# collins-kariuki.github.io
-Portfolio update
-JS minification pending
+# Portfolio Website
+Keep a record of major projects.
+Contains Updated resume
